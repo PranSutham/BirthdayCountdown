@@ -1,4 +1,4 @@
-# birthday-countdown
+# BirthdayCountdown
 
 This is the repository for the development of a birthday countdown web application.
 
